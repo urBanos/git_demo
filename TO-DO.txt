@@ -1,2 +1,3 @@
 To-Do: Git tutorial, MIT assignment 1, read AI stuff, web launch course
-javascript course, learn, learn, learn
+javascript course, learn, learn, learn.
+Will definitely finish the git tutoroial by tonight. 
